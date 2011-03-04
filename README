@@ -1,0 +1,12 @@
+This is IdleScripter open repository
+
+This App is used to run Apple Scripts when computers foes into idle.
+
+You can setup "Time interval" which will be used like "Idle interval", and two apple scripts. One when computer idles and one when you start working with it.
+
+Example Apple scripts will be included soon.
+
+
+All questions, bug-reports or feature-requests point directly to marek.sebera@gmail.com / marek@msebera.cz
+
+Released under Artistic license (could be found on http://www.opensource.org/licenses/artistic-license.php )
