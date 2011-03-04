@@ -1,0 +1,183 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 735}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{19, 0}, {705, 1056}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* IdleScripterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {646, 650}}";
+			sepNavSelRange = "{807, 0}";
+			sepNavVisRange = "{0, 1146}";
+			sepNavWindowFrame = "{{574, 0}, {705, 778}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* IdleScripterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {957, 2262}}";
+			sepNavSelRange = "{693, 0}";
+			sepNavVisRange = "{149, 1923}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 4FA757921302CEBF00324FEE /* IdleScripter */;
+		activeTarget = 8D1107260486CEB800E47090 /* IdleScripter */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* IdleScripter */,
+		);
+		codeSenseManager = 4FA757A41302CEC300324FEE /* Code sense */;
+		executables = (
+			4FA757921302CEBF00324FEE /* IdleScripter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					758,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319800619;
+			PBXWorkspaceStateSaveDate = 319800619;
+		};
+		perUserProjectItems = {
+			4F555B40130305C800A0F398 /* PBXTextBookmark */ = 4F555B40130305C800A0F398 /* PBXTextBookmark */;
+			4F555B41130305C800A0F398 /* PlistBookmark */ = 4F555B41130305C800A0F398 /* PlistBookmark */;
+			4F555B42130305C800A0F398 /* PBXTextBookmark */ = 4F555B42130305C800A0F398 /* PBXTextBookmark */;
+			4F555B6613030BAD00A0F398 /* PBXBookmark */ = 4F555B6613030BAD00A0F398 /* PBXBookmark */;
+			4F7017E3130FC52300870D84 /* PBXTextBookmark */ = 4F7017E3130FC52300870D84 /* PBXTextBookmark */;
+			4FA63751130FD037005F67C9 /* PBXTextBookmark */ = 4FA63751130FD037005F67C9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4FA757A31302CEC300324FEE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4F555B40130305C800A0F398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	4F555B41130305C800A0F398 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* IdleScripter-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	4F555B42130305C800A0F398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* IdleScripterAppDelegate.h */;
+		name = "IdleScripterAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 543;
+		rType = 0;
+		vrLen = 1146;
+		vrLoc = 0;
+	};
+	4F555B6613030BAD00A0F398 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4F555AB61302F7D700A0F398 /* icon.png */;
+	};
+	4F7017E3130FC52300870D84 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* IdleScripterAppDelegate.m */;
+		name = "IdleScripterAppDelegate.m: 137";
+		rLen = 0;
+		rLoc = 5186;
+		rType = 0;
+		vrLen = 1314;
+		vrLoc = 4841;
+	};
+	4FA63751130FD037005F67C9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* IdleScripterAppDelegate.m */;
+		name = "IdleScripterAppDelegate.m: 20";
+		rLen = 0;
+		rLoc = 693;
+		rType = 0;
+		vrLen = 1923;
+		vrLoc = 149;
+	};
+	4FA757921302CEBF00324FEE /* IdleScripter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IdleScripter;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4FA757A31302CEC300324FEE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4FA757A41302CEC300324FEE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107260486CEB800E47090 /* IdleScripter */ = {
+		activeExec = 0;
+		executables = (
+			4FA757921302CEBF00324FEE /* IdleScripter */,
+		);
+	};
+}

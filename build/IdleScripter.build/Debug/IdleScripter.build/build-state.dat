@@ -1,0 +1,292 @@
+TIdleScripter
+v7
+r0
+t318962475.980570
+cCheck dependencies
+cProcessInfoPlistFile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Info.plist IdleScripter-Info.plist
+cCopyStringsFile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/MainMenu.xib
+cCpResource build/Debug/IdleScripter.app/Contents/Resources/APPL.icns APPL.icns
+cCpResource build/Debug/IdleScripter.app/Contents/Resources/icon.png icon.png
+cProcessPCH /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch.gch IdleScripter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/main.o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripterAppDelegate.o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/MacOS/IdleScripter normal x86_64
+cTouch /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOKitLib.h
+c000000004A4D52090000000000012048
+t1246581257
+s73800
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CAA7405000000000003CE34
+t1286239237
+s249396
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/APPL.icns
+c000000004D5297F8000000000002B0A2
+t1297258488
+s176290
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/APPL.png
+c000000004D5297AA0000000000019774
+t1297258410
+s104308
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/InfoPlist.strings
+c000000004D52973F000000000000002D
+t1297258303
+s45
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/MainMenu.xib
+c000000004D52C18F00000000000141C6
+t1297269135
+s82374
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.h
+c000000004D52C2070000000000000464
+t1297269255
+s1124
+i<Cocoa/Cocoa.h>
+i<IOKit/IOKitLib.h>
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m
+c000000004D52C3AB000000000000169D
+t1297269675
+s5789
+i"IdleScripterAppDelegate.h"
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter_Prefix.pch
+c000000004D52973F000000000000009B
+t1297258303
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/applescript.png
+c000000004D5297AA0000000000019774
+t1297258410
+s104308
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app
+t1297269675
+s102
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Info.plist
+t1297259765
+s958
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/MacOS/IdleScripter
+t1297269675
+s25992
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/PkgInfo
+t1297259765
+s8
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/APPL.icns
+t1297258520
+s176290
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/APPL.png
+t1297258520
+s104308
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1297258520
+s92
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj/MainMenu.nib
+t1297269138
+s14045
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/applescript.png
+t2
+s0
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/icon.png
+t1297269054
+s3561
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripter.LinkFileList
+c000000004D5298180000000000000133
+t1297258520
+s307
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripterAppDelegate.o
+t1297269675
+s59676
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/main.o
+t1297262190
+s5048
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/icon.png
+c000000004D52C12A0000000000000DE9
+t1297269034
+s3561
+
+N/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m
+c000000004D52973F00000000000000FC
+t1297258303
+s252
+i<Cocoa/Cocoa.h>
+
+N/var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch.gch
+t1297262189
+s54310672
+
+N/var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-flrmbohosfoatpejdiuifliwrwzs/IdleScripter_Prefix.pch.gch
+t1297258524
+s54306576
+
+NIdleScripter-Info.plist
+c000000004D529CF500000000000003DC
+t1297259765
+s988
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318962475#318962475#0(0"0(0#1#0"8628413152#0"0#
+
+CCompileC build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripterAppDelegate.o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318962475.396220
+e318962475.937668
+r1
+xCompileC
+xbuild/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripterAppDelegate.o
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m318962475#318962475#0(0"0(0#0#90"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m8627239488#1889"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-generated-files.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-own-target-headers.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-all-target-headers.hmap -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-project-headers.hmap -F/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/include -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources/x86_64 -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources -include /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch -c /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripterAppDelegate.m -o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripterAppDelegate.o0#
+
+CCompileC build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/main.o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318954989.973992
+e318954990.294458
+r1
+xCompileC
+xbuild/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/main.o
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m318954989#318954990#0(0"0(0#0#71"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m8626744096#1851"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-generated-files.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-own-target-headers.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-all-target-headers.hmap -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-project-headers.hmap -F/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/include -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources/x86_64 -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources -include /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch -c /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/main.m -o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/MainMenu.xib
+s318961938.490180
+e318961938.765936
+r1
+xCompileXIB
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib318961938#318961938#0(0"0(0#0#91"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/MainMenu.xib8599329376#447"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj/MainMenu.nib /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318951320.293956
+e318951320.785876
+r1
+xCopyStringsFile
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318951320#318951320#0(0"0(0#0#96"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/English.lproj/InfoPlist.strings8607416992#422"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/IdleScripter.app/Contents/Resources/APPL.icns APPL.icns
+s318951320.499984
+e318951320.601937
+r1
+xCpResource
+xbuild/Debug/IdleScripter.app/Contents/Resources/APPL.icns
+xAPPL.icns
+lSLF07#2@14"Copy APPL.icns318951320#318951320#0(0"0(0#0#74"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/APPL.icns8605936480#422"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/APPL.icns /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources0#
+
+CCpResource build/Debug/IdleScripter.app/Contents/Resources/APPL.png APPL.png
+s318951320.499228
+e318951320.601685
+r1
+xCpResource
+xbuild/Debug/IdleScripter.app/Contents/Resources/APPL.png
+xAPPL.png
+lSLF07#2@13"Copy APPL.png318951320#318951320#0(0"0(0#0#73"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/APPL.png8605976416#421"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/APPL.png /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources0#
+
+CCpResource build/Debug/IdleScripter.app/Contents/Resources/applescript.png applescript.png
+r0
+
+CCpResource build/Debug/IdleScripter.app/Contents/Resources/icon.png icon.png
+s318961854.550008
+e318961854.557118
+r1
+xCpResource
+xbuild/Debug/IdleScripter.app/Contents/Resources/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png318961854#318961854#0(0"0(0#0#73"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/icon.png8637700480#421"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/icon.png /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Resources0#
+
+CLd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/MacOS/IdleScripter normal x86_64
+s318962475.937758
+e318962475.977808
+r1
+xLd
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/MacOS/IdleScripter
+xnormal
+xx86_64
+lSLF07#2@126"Link /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/MacOS/IdleScripter318962475#318962475#0(0"0(0#0#0"8615380352#714"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug -F/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug -filelist /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/Objects-normal/x86_64/IdleScripter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework IOKit -o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/MacOS/IdleScripter0#
+
+CProcessInfoPlistFile /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Info.plist IdleScripter-Info.plist
+s318952565.682112
+e318952565.684842
+r1
+xProcessInfoPlistFile
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Info.plist
+xIdleScripter-Info.plist
+lSLF07#2@31"Process IdleScripter-Info.plist318952565#318952565#0(0"0(0#0#88"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter-Info.plist8631776288#403"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    builtin-infoPlistUtility IdleScripter-Info.plist -genpkginfo /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch.gch IdleScripter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318954986.139710
+e318954989.973801
+r1
+xProcessPCH
+x/var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch.gch
+xIdleScripter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile IdleScripter_Prefix.pch318954986#318954989#0(0"0(0#0#88"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter_Prefix.pch8626887200#1726"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-generated-files.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-own-target-headers.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-all-target-headers.hmap -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-project-headers.hmap -F/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/include -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources/x86_64 -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources -c /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter_Prefix.pch -o /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-ccvuynuoatogpmaroelxltpuolve/IdleScripter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-flrmbohosfoatpejdiuifliwrwzs/IdleScripter_Prefix.pch.gch IdleScripter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318951320.786052
+e318951324.227285
+r1
+xProcessPCH
+x/var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-flrmbohosfoatpejdiuifliwrwzs/IdleScripter_Prefix.pch.gch
+xIdleScripter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile IdleScripter_Prefix.pch318951320#318951324#0(0"0(0#0#88"/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter_Prefix.pch8601973472#1711"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-generated-files.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-own-target-headers.hmap -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-all-target-headers.hmap -iquote /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/IdleScripter-project-headers.hmap -F/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/include -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources/x86_64 -I/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/IdleScripter.build/Debug/IdleScripter.build/DerivedSources -c /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/IdleScripter_Prefix.pch -o /var/folders/fX/fXGnc0NhGviJpuVNUfvSWE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/IdleScripter_Prefix-flrmbohosfoatpejdiuifliwrwzs/IdleScripter_Prefix.pch.gch0#
+
+CTouch /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app
+s318962475.977912
+e318962475.980534
+r1
+xTouch
+x/Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app
+lSLF07#2@99"Touch /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app318962475#318962475#0(0"0(0#0#0"8637644000#188"    cd /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter    /usr/bin/touch -c /Users/smarek/Documents/POCITACE/Programovani/Cocoa/IdleScripter/build/Debug/IdleScripter.app0#
+
